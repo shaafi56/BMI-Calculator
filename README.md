@@ -1,14 +1,16 @@
-# BMI-Calculator
-Use this calculator to check your body mass index (BMI) and find out if you're a healthy weight. Or you can use it to check your child's BMI.
+# bmi_calculator
 
-**Underweight:**
-Being underweight could be a sign you're not eating enough or you may be ill. If you're underweight, a GP can help.
+A new Flutter project.
 
-**Healthy weight:**
-Keep up the good work! For tips on maintaining a healthy weight,
+## Getting Started
 
-**Overweight:**
-The best way to lose weight if you're overweight is through a combination of diet and exercise.
+This project is a starting point for a Flutter application.
 
-**Obese:**
-The best way to lose weight if you're obese is through a combination of diet and exercise, and, in some cases, medicines. See a GP for help and advice.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
